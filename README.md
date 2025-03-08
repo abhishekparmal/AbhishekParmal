@@ -4,7 +4,7 @@
 
 ## 🔥 About Me  
 - 🎓 **BSc Computer Science Student**  
-- 💻 **Tech Stack:** JavaScript, React.js, Angular, Java, Spring Boot  
+- 💻 **Tech Stack:** JavaScript, React.js, Java, Spring Boot  
 - 🚀 **Currently Learning:** Next.js, TypeScript, System Design  
 - 📌 **Open to Collaborations** in Full-Stack & Open Source Projects  
 
