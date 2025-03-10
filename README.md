@@ -18,9 +18,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekParmal&layout=compact&theme=radical)  
 
 ## 📞 Connect With Me  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/abhishekparmal](#)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abhishekparmal/)  
 📧 **Email:** abhishekparmal512@gmail.com  
-🌐 **Portfolio:** [https://responsive-personal-portfolio-abhis-projects-9d0da7b4.vercel.app/](#)  
+🌐 **Portfolio:** [My Portfolio](https://responsive-personal-portfolio-abhis-projects-9d0da7b4.vercel.app/)  
 
 ---
 *"Code. Build. Innovate."* ✨
