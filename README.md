@@ -5,7 +5,7 @@
 ## 🔥 About Me  
 - 🎓 **BSc Computer Science Student**  
 - 💻 **Tech Stack:** JavaScript, React.js, Java, Spring Boot, MySql
-- 🚀 **Currently Learning:** Next.js, TypeScript, System Design  
+- 🚀 **Currently Learning:** Next.js, TypeScript, System Design, Claude
 - 📌 **Open to Collaborations** in Full-Stack & Open Source Projects  
 
 ## 📂 My Featured Repositories  
